@@ -1,6 +1,6 @@
 <h2> Hello There! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2> 
 
-🚀 I'm an engineer who likes to develop software. 
+🚀 My Name is Acelya. I'm an engineer who likes to develop software. 
 
 🔭 As someone who has devoted her student years to this work, I am working to become an expert in Software Developer. My motto is "Start to learn, repeat to specialize".
 I like to be development-oriented and share the information I have learned with people. 
@@ -9,12 +9,12 @@ I like to be development-oriented and share the information I have learned with 
 - Android Development
 - Java / Kotlin / HTML / CSS / C# / Php
 
-### 🌍 Communities
+## 🌍 Communities
 - Google Developer Groups(Organizer)
 - Women Techmakers (Ambassador)
 - Google Developer Student Clubs (Mentor, Lead)
 - YouNG (Lead, Group Lead)
-
+##
 📫 How to reach me: acelyanuroguz@gmail.com 
 
 
