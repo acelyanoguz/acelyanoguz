@@ -1,4 +1,4 @@
-### Hi there 👋,
+### Hi there 👋, My name is Açelya.
 ![Software Development & Computer Engineering](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm an engineer who likes to develop software. 
@@ -7,7 +7,14 @@ As someone who has devoted her student years to this work, I am working to becom
 
 I like to be development-oriented and share the information I have learned with people. 
 
-Skills: Android Development / Java / Kotlin / HTML / CSS / C# / Php
+💻 **Languages and Tools:** 🛠️<br>
+Android Development / Java / Kotlin / HTML / CSS / C# / Php
+
+### 🚀 Communities
+Google Developer Groups(Organizer)
+Women Techmakers (Ambassador)
+Google Developer Student Clubs (Mentor, Lead)
+YouNG (Lead, Group Lead)
 
 - 🔭 I’m currently working on this page. 
 - 📫 How to reach me: acelyanuroguz@gmail.com 
