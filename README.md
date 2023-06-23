@@ -21,7 +21,7 @@ I like to be development-oriented and share the information I have learned with 
 <p align="left">
 <a href="https://twitter.com/acelyanoguz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="acelyanoguz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/acelyanuroguz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="acelyanuroguz" height="30" width="40" /></a>
-<a href="https://medium.com/@acelyanoguz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@acelyaoguz" height="30" width="40" /></a>
+<a href="https://medium.com/@acelyaoguz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@acelyaoguz" height="30" width="40" /></a>
 </p>
 
 ##
