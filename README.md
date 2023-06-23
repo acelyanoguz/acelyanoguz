@@ -16,9 +16,6 @@ I like to be development-oriented and share the information I have learned with 
 - Google Developer Student Clubs (Mentor, Lead)
 - YouNG (Lead, Group Lead)
 ## 
-📫 How to reach me: acelyanuroguz@gmail.com 
-##
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,3 +24,5 @@ I like to be development-oriented and share the information I have learned with 
 <a href="https://medium.com/@acelyanoguz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@acelyanoguz" height="30" width="40" /></a>
 </p>
 
+##
+📫 How to reach me: acelyanuroguz@gmail.com 
