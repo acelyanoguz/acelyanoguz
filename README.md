@@ -1,11 +1,11 @@
-### Hi there 👋, My name is Açelya.
+<h2> Hello There! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2> 
 
 🚀 I'm an engineer who likes to develop software. 
 
 🔭 As someone who has devoted her student years to this work, I am working to become an expert in Software Developer. My motto is "Start to learn, repeat to specialize".
 I like to be development-oriented and share the information I have learned with people. 
 
-### 💻 Languages and Tools: 🛠️<br>
+## 💻 Languages and Tools: 🛠️<br>
 - Android Development
 - Java / Kotlin / HTML / CSS / C# / Php
 
