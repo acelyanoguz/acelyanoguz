@@ -8,13 +8,14 @@ As someone who has devoted her student years to this work, I am working to becom
 I like to be development-oriented and share the information I have learned with people. 
 
 💻 **Languages and Tools:** 🛠️<br>
-Android Development / Java / Kotlin / HTML / CSS / C# / Php
+- Android Development
+- Java / Kotlin / HTML / CSS / C# / Php
 
 ### 🚀 Communities
-Google Developer Groups(Organizer)
-Women Techmakers (Ambassador)
-Google Developer Student Clubs (Mentor, Lead)
-YouNG (Lead, Group Lead)
+- Google Developer Groups(Organizer)
+- Women Techmakers (Ambassador)
+- Google Developer Student Clubs (Mentor, Lead)
+- YouNG (Lead, Group Lead)
 
 - 🔭 I’m currently working on this page. 
 - 📫 How to reach me: acelyanuroguz@gmail.com 
