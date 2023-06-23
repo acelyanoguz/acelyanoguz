@@ -1,8 +1,7 @@
-### Hi there 👋, Acelya Oguz
-#### Software Development & Computer Engineering
+### Hi there 👋,
 ![Software Development & Computer Engineering](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm a engineer who likes to develop software. 
+I'm an engineer who likes to develop software. 
 
 As someone who has devoted her student years to this work, I am working to become an expert in Software Developer. My motto is "Start to learn, repeat to specialize".
 
